@@ -1,9 +1,8 @@
 *
 body {
-  margin: 0;
-  padding: 0;
   
 	background-image:url('synthwaveloop.gif'); 
+	background-position: center;
 	background-size: cover;
     
     height: 100vh;
