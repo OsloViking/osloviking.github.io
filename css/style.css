@@ -2,6 +2,9 @@
 body {
   margin: 0;
   padding: 0;
+  
+	background-image:url('synthwaveloop.gif'); 
+	background-repeat:repeat;
 }
 
 #video-bg {
