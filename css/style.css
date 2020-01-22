@@ -4,7 +4,10 @@ body {
   padding: 0;
   
 	background-image:url('synthwaveloop.gif'); 
-	background-repeat:repeat;
+	position: fixed;
+  top: 0; right: 0; bottom: 0; left: 0;
+  overflow: hidden;
+  z-index: -1;
 }
 
 #video-bg {
